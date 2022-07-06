@@ -15,7 +15,7 @@ if choice1 == "left":
         elif choice3 == "yellow":
             print("You open the yellow door, cautiously, and inside there's an enormous treasure. YOU WIN!")
         else:
-            print("You took too long to choose, the ground opened and you fell, hitting you head. GAME OVER.")
+            print("You took too long to choose, the ground opened and you fell, hitting your head. GAME OVER.")
     else:
         print("You've been attacked by a beast inside the hole, if you've had waited,"
               " the beast would've' been gone. GAME OVER.")
